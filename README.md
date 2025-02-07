@@ -2,7 +2,7 @@
 
 🎓 Student @ Denison University | 💻 Full-Stack Developer  
 
-## 🚀 About Me  
+## 🐵 About Me  
 - 🔥 Passionate about **web development** & **problem-solving**  
 - 🎵 Musician & music lover—always looking for new sounds  
 - 🛠 Skilled in **C++, JavaScript, React, Python, HTML, CSS**  
