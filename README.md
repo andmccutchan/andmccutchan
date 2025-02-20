@@ -29,5 +29,5 @@
 
 ## 🌎 Connect with Me  
 📫 **Email:** mccutc_a1@denison.edu
-💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/andrew-mccutchan)  
+💼 **LinkedIn:** [LinkedIn]([www.linkedin.com/in/andrew-mccutchan](https://www.linkedin.com/in/andrew-mccutchan/))  
 
